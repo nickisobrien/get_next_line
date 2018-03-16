@@ -6,11 +6,11 @@
 /*   By: nobrien <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/02/26 16:33:04 by nobrien           #+#    #+#             */
-/*   Updated: 2018/03/16 14:07:17 by nobrien          ###   ########.fr       */
+/*   Updated: 2018/03/16 15:15:36 by nobrien          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "get_next_line.h"
 
 void		merge(const int fd, char **buf, int *ret)
 {
